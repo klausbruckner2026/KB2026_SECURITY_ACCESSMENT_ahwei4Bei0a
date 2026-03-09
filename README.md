@@ -1,7 +1,3 @@
-Here's a revamped version of the README with improved structure, clearer documentation, and a more professional presentation:
-
----
-
 # Simple Regex Scan 🔍
 
 A lightweight Python-based static code analyzer that uses regular expressions to identify potentially insecure code patterns. Perfect for quick security assessments and code reviews.
