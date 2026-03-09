@@ -1,0 +1,9 @@
+# Core terminal styling & colors (simple, still actively maintained)
+termcolor>=3.3.0
+
+# Modern replacement for terminaltables → much richer features, beautiful output, actively maintained
+rich>=13.0.0
+
+# Modern, faster, more accurate charset/encoding detector (strongly preferred over old chardet)
+charset-normalizer>=3.4.0
+# chardet>=7.0.1    # ← only if you must keep exact old API compatibility (but charset-normalizer is usually better)
